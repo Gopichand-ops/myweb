@@ -1,5 +1,5 @@
 <html>
 <body>
-	<h1 style="color: green; font-size: 40px;" align="center">  GANA TECH APP VERSION-32000</h1>
+	<h1 style="color: tomato; font-size: 100px;" align="middle">  APSRTC AP ONLINE</h1>
 </body>
 </html>
