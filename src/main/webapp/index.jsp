@@ -11,7 +11,7 @@
 		<input type="radio" id="" name="gender" value="">female
 		<input type="radio" id="" name="gender" value="">other<br>
 		<label for="caste">caste:</label>
-		<input type="radio" id="" name="caste" value="">BC
+		<input type="radio" id="" name="caste" value="">Bc-A
 		<input type="radio" id="" name="caste" value="">OC
 		<input type="radio" id="" name="caste" value="">SC/ST<br>
 </body>
